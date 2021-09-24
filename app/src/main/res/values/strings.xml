@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BitBrothers</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="already_have_account">Already have account</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="click_for_signup">Click for signup</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="welcome_to_home_page">Welcome to home page</string>
+    <string name="setting">Setting</string>
+    <string name="logout">Logout</string>
+</resources>

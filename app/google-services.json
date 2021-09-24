@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "231284703251",
+    "project_id": "bit-brothers-c4fc3",
+    "storage_bucket": "bit-brothers-c4fc3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231284703251:android:2eab75ff684ae4c3dd3fe6",
+        "android_client_info": {
+          "package_name": "com.codewithvikash.bitbrothers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231284703251-819uvgcb2sgc39pli3219ced5q09ou2a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codewithvikash.bitbrothers",
+            "certificate_hash": "84d083c5cc7d8a23497f719d019b8b98cf7965a7"
+          }
+        },
+        {
+          "client_id": "231284703251-in8fi3m919up11ua3cf9iphc0mhn2sk9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSqS7n6LiVP_feqywdFMioFbpLYNeY04g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "231284703251-in8fi3m919up11ua3cf9iphc0mhn2sk9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
